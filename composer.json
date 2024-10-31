@@ -1,0 +1,13 @@
+{
+  "name": "revoffers/wp-plugin",
+  "description": "RevOffers + WooCommerce WordPress Plugin",
+  "require": {
+    "php": ">5.5.0",
+    "ext-json": "",
+    "ext-openssl": "",
+    "ext-curl": ""
+  },
+  "require-dev": {
+    "johnpbloch/wordpress-core": "~5.1"
+  }
+}
